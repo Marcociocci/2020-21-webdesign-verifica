@@ -7,3 +7,7 @@ ul{
 .Rom{
   font-weight: bold
 }
+li{
+border-style:solid;
+border-width: 1px;
+}

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T08:11:53.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="V0W_Pv-JxEQhM5uw0HxL" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T08:16:09.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="RW_I49v2R-rzNpuo1jv6" version="14.2.9" type="github">
   <diagram id="HrJ3EAjQMZ0ei7XoC1Lj" name="Page-1">
     <mxGraphModel dx="942" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="r3d8gPIPvbpH-zj6DeGr-3" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;strokeColor=#eeeeee;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="299.69" y="40" width="220.31" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="r3d8gPIPvbpH-zj6DeGr-4" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Roma&lt;br&gt;&lt;br&gt;parcheggio termini&lt;br&gt;Via Giuseppe Garibaldi n°6&lt;br&gt;distanza : 600m&lt;br&gt;tariffa oraria : 1,50€ l&#39;ora&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="r3d8gPIPvbpH-zj6DeGr-3">
+        <mxCell id="r3d8gPIPvbpH-zj6DeGr-4" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Roma&lt;br&gt;&lt;br&gt;parcheggio Termini&lt;br&gt;Via Giuseppe Garibaldi n°6&lt;br&gt;distanza : 600m&lt;br&gt;tariffa oraria : 1,50€ l&#39;ora&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="r3d8gPIPvbpH-zj6DeGr-3">
           <mxGeometry y="9.999999999999998" width="217.71811764705885" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="r3d8gPIPvbpH-zj6DeGr-5" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Parcheggio Colosseo&lt;br&gt;Via Cavour n°15&lt;br&gt;distanza : 450m&lt;br&gt;tariffa oraria : 2,00€ l&#39;ora&lt;br&gt;&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="r3d8gPIPvbpH-zj6DeGr-3">
